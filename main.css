@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    width: 970px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+#head {
+    background: #C9C9C9;
+    padding: 15px;
+}
+
+#content {
+    margin-top: 15px;
+    padding: 10px;
+    background: black;
+    overflow: hidden;
+}
+
+
+.leftBlock {
+    background: #C9C9C9;
+    padding: 15px;
+    width: 70%;
+    float: left;
+}
+
+.rightBlock {
+    background: peru;
+    padding: 15px;
+    width: 30%;
+    float: right;
+}
+
+#footer {
+    margin-top: 15px;
+    background: #C9C9C9;
+    padding: 15px;
+}
+.registr{margin: auto}
+.registrtext{margin: auto}
